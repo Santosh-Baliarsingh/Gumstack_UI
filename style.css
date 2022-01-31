@@ -1,0 +1,142 @@
+/* Google font  "popins" links */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Banner Section Style */
+.banner{
+
+    background: #251944;
+
+}
+
+/* Toogle icons Style */
+.toggler-icon{
+
+    color: white;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+/* Headng Section Style */
+.heading{
+
+    font-size: 50px;
+}
+
+/* Head-para section style */
+.head-para{
+
+    color: #FFA339;
+    font-size: 25px;
+}
+
+/* Head-paar2 section style */
+.head-para2{
+
+    font-size: 16px;
+    color: #F5E5D7;
+}
+
+/* Register Button Style */
+.register-btn{
+
+    font-size: 18px;
+}
+
+/* Second Heading Style */
+.secondheading{
+
+    color: #231741;
+    margin-top: 60px;
+    font-weight: 800;
+}
+
+/* get in Touch Button Style */
+.get-in-touch{
+
+    background: #5F6FBF;
+}
+
+/* Thirdheading section  Style */
+.thirdheading{
+
+    color: #231741;
+}
+
+/* Lets start button style */
+.lets-start-btn{
+
+    background: #5F6FBF;
+
+}
+
+/* Get Start Button Style */
+.get-start-btn{
+
+    background: #5F6FBF;
+}
+
+/* Get Starts Button hover Style */
+.get-start-btn:hover{
+
+    background: #000;
+}
+
+/* Feedback section style */
+.feedback{
+
+    background: #FFF9FA;
+    margin-top: 100px;
+}
+
+.rating li{
+
+    color: #FFA63F;
+}
+
+/* Footer Links Style */
+.footer-links ul li:hover{
+
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+/* Footer Section style */
+.footer-section ul li:hover{
+
+    text-decoration: underline;
+
+    cursor: pointer;
+}
+
+
+/* Img-btn Section Style */
+.img-btn{
+
+    margin-top: 60px;
+}
+
+/* Horizintal Line Section Style */
+.line{
+
+    background: #000;
+}
+
+.conditions:hover{
+
+    text-decoration: underline;
+    
+    cursor: pointer;
+}
+.policy:hover{
+
+    text-decoration: underline;
+
+    cursor: pointer;
+}
+/* -------------------------------------------- */
